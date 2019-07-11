@@ -1,3 +1,6 @@
+## Ethereum 1.x源码研读
+本repo的代码是Ethereum 1.x v1.9.0的代码。本repo会对代码库的核心逻辑进行学习。学习产出位于notes/目录下。
+
 ## Go Ethereum
 
 Official Golang implementation of the Ethereum protocol.
